@@ -12,4 +12,4 @@ Use SQL to explore their database and answer some key business questions, such a
 Dataset includes details on Rockbuster's film inventory, customers, and rental payments. I worked with PostgreSQL to clean, query, and analyze the data. 
 ## Repository Contents
   - SQL Queries: Collection of scripts used for data analysis
-  - Visualizations: Tableau Visuals
+  - PowerPoint Presentation
